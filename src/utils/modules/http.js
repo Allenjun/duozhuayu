@@ -14,9 +14,7 @@ const http = axios.create({
     "x-request-token":
       "646286b9b665295be4c013a164dea3d2f3c7fef8268b7adda0fff8c702c57923991f8eb54e44698942",
     "x-security-key": "27867421",
-    "x-timestamp":    "1611133646913",
-
-
+    "x-timestamp": "1611133646913",
     "x-user-id": "278115379438558820"
   }
 });
